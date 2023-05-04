@@ -15,7 +15,7 @@ import time
 import pandas as pd
 from PIL import Image
 import io
-# import cv2
+import cv2
 from urllib.parse import quote,unquote
 from sentence_transformers import SentenceTransformer, util
 from sklearn.manifold import TSNE
