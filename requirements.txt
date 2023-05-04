@@ -1,11 +1,10 @@
 pandas
 plotly
 streamlit
-pillow
 numpy
 matplotlib
 hypertools
 keybert
 paddlepaddle
 paddleocr>=2.0.1
-opencv-python-headless>=4.1.2
+opencv-python-headless==4.5.4.60
