@@ -1,0 +1,9 @@
+pandas
+plotly
+streamlit
+cv2
+numpy
+matplotlib
+hypertools
+keybert
+paddleocr
