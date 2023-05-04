@@ -1,7 +1,7 @@
 pandas
 plotly
 streamlit
-opencv-python
+opencv-python-headless
 SimpleCV
 pillow
 numpy
