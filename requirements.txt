@@ -1,7 +1,7 @@
 pandas
 plotly
 streamlit
-opencv_python
+opencv-python-4.1.2.30
 numpy
 matplotlib
 hypertools
