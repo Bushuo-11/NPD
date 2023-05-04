@@ -3,7 +3,7 @@ import pandas as pd
 from io import StringIO
 import numpy as np
 # import plotly.express as px
-import plotly.graph_objects as go
+# import plotly.graph_objects as go
 import requests
 from urllib.parse import quote,unquote
 import requests
