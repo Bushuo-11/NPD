@@ -1,8 +1,6 @@
 pandas
 plotly
 streamlit
-opencv-python-headless
-SimpleCV
 pillow
 numpy
 matplotlib
@@ -10,3 +8,4 @@ hypertools
 keybert
 paddlepaddle
 paddleocr>=2.0.1
+opencv-python-headless
