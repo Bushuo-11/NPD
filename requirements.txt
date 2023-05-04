@@ -1,7 +1,7 @@
 pandas
 plotly
 streamlit
-opencv
+ opencv-python
 numpy
 matplotlib
 hypertools
