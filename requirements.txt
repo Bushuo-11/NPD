@@ -3,6 +3,7 @@ plotly
 streamlit
 opencv-python
 SimpleCV
+pillow
 numpy
 matplotlib
 hypertools
