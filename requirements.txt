@@ -8,5 +8,5 @@ numpy
 matplotlib
 hypertools
 keybert
-paddlepaddle==2.4.2
+paddlepaddle
 paddleocr>=2.0.1
