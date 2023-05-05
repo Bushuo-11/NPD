@@ -5,8 +5,7 @@ numpy
 matplotlib
 hypertools
 keybert
-paddlepaddle
-paddleocr>=2.0.1
+paddlehub
 opencv-contrib-python-headless
 opencv-python-headless
 lxml
