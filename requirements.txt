@@ -6,3 +6,4 @@ matplotlib
 hypertools
 keybert
 opencv-python-headless
+lxml
